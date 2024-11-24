@@ -1,2 +1,8 @@
-# Recipe-Book---CRUD-React-App
-The Recipe Book is a user-friendly platform built with Vite + React, offering seamless CRUD operations for managing recipes. Users can create, read, update, and delete recipes, search by name, and enjoy a responsive, customizable interface. Designed for food enthusiasts and chefs
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
